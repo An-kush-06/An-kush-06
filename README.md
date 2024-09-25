@@ -1,4 +1,5 @@
-![MasterHead](https://ibagroupit.com/wp-content/uploads/2020/05/banner_1300-357_devops.png)
+![MasterHead](https://dgraph.io/blog/images/20230217_dynamic-autoscaling-of-github-runners/cicd_banner.jpeg)
+
 <h1 align="center">Hi 👋, I'm Ankush Bhairapgol</h1>
 <h3 align="center">A passionate cloud engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
